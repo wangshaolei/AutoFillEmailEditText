@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AutoFillEmailEditText-->
+    <declare-styleable name="AutoFillEmailEditText">
+        <attr name="AutoFillEmailEditText_domains" format="string"/>
+        <attr name="AutoFillEmailEditText_default_drop_down_key_color" format="color"/>
+        <attr name="AutoFillEmailEditText_default_drop_down_bg" format="reference"/>
+        <attr name="AutoFillEmailEditText_default_drop_down_divider" format="boolean"/>
+    </declare-styleable>
+</resources>
