@@ -1,5 +1,5 @@
 # AutoFillEmailEditText
-Auto Fill the custom email to EditText
+Auto fill the custom email to EditText
 
 ##Step1
 
