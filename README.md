@@ -1,7 +1,7 @@
 # AutoFillEmailEditText
 Auto fill the custom email to EditText
 
-##Step1
+## Step1
 
 ```xml
 <declare-styleable name="AutoFillEmailEditText">
@@ -12,7 +12,7 @@ Auto fill the custom email to EditText
 </declare-styleable>
 ```
 
-##Step2
+## Step2
 ```xml
 <com.len.library.AutoFillEmailEditText
   android:id="@+id/et_mail"
